@@ -1,5 +1,5 @@
 <div class="image-container">
-  <img class="CoverImagee" src="github cover.png" alt="Cover">
+  <img class="CoverImagee" src="assets/github-cover.png" alt="Cover">
 </div>
 
 <h3>✺ Tamar Project Website ✺</h3>
