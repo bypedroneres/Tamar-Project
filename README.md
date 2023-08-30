@@ -25,8 +25,6 @@ The Tamar Project Website features a visually appealing design that reflects the
 
 <h4>✹ Features ✹</h4>
 
-<img class="CoverImagee" src="GIT HUB COVER.png" alt="demo">
-
 * <b>About the Tamar Project:</b> Visitors can learn about the history, values, and achievements of the Tamar Project through informative sections.
 * <b>Conservation Efforts:</b> The website highlights the organization's ongoing efforts to protect sea turtles, including rescue missions, nesting site preservation, and community engagement projects.
 * <b>Education Programs:</b> The Tamar Project offers educational programs for all ages, and the website provides information about workshops, seminars, and hands-on experiences.
@@ -42,7 +40,7 @@ The Tamar Project Website features a visually appealing design that reflects the
 
 <h4>✹ Link to the Project ✹</h4>
 
-<h5>[Insert link to the Tamar Project Website here]</h5>
+<h5>https://bypedroneres.github.io/Tamar-Project/</h5>
 
 <h4>✹ Together for Sea Turtles ✹</h4>
 
